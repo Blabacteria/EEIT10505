@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 /.settings/
 /target/
 /.project
 /.classpath
+=======
+/target/
+/.classpath
+/.project
+/.settings/
+
+>>>>>>> branch 'master' of https://github.com/EEIT105005/EEIT10505.git
