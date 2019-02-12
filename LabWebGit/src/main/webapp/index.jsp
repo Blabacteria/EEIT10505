@@ -25,7 +25,5 @@
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 
->>>>>>> branch 'master' of https://github.com/EEIT105005/EEIT10505.git
->>>>>>> branch 'master' of https://github.com/EEIT105005/EEIT10505.git
 </body>
 </html>
